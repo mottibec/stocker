@@ -1,4 +1,4 @@
-# Stocker - stock watcher app for demonstrating socket.io auto instrumentation
+# Stocker - socket.io auto instrumentation demo
 
 The app is composed of 2 parts
 
