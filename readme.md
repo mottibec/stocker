@@ -1,4 +1,5 @@
 # Stocker - socket.io auto instrumentation demo
+Stocker allows clients to search for stocks and then subscribe for stock symbol price updates 
 
 The app is composed of 2 parts
 
