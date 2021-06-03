@@ -1,7 +1,7 @@
 import io from "socket.io-client";
 import axios from "axios";
 
-const client = io("http://localhost:3030", { autoConnect: true });
+const client = io("http://localhost:3030", { autoConnect: true, transports: ["websocket"] });
 
 const searchForStock = async (text: string) => {
   const response = await axios.get(
