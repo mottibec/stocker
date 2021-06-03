@@ -1,5 +1,6 @@
 # Stocker - socket.io auto instrumentation demo
 Stocker allows clients to search for stocks and then subscribe for stock symbol price updates 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mottibec.stocker)
 
 The app is composed of 2 parts
 
